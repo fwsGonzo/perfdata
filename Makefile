@@ -1,4 +1,4 @@
-GPP=g++-4.9 -std=c++14 # -std=c++11
+GPP=g++ -std=c++14 # -std=c++11
 GPPOPT=-c
 
 OBJ=cpusample.o stat.o pidstat.o
